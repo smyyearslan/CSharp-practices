@@ -1,0 +1,14 @@
+C:\KODLARIM\C# practices\variablesEx\bin\Debug\net10.0\variablesEx.exe
+C:\KODLARIM\C# practices\variablesEx\bin\Debug\net10.0\variablesEx.deps.json
+C:\KODLARIM\C# practices\variablesEx\bin\Debug\net10.0\variablesEx.runtimeconfig.json
+C:\KODLARIM\C# practices\variablesEx\bin\Debug\net10.0\variablesEx.dll
+C:\KODLARIM\C# practices\variablesEx\bin\Debug\net10.0\variablesEx.pdb
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.AssemblyInfoInputs.cache
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.AssemblyInfo.cs
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.csproj.CoreCompileInputs.cache
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.dll
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\refint\variablesEx.dll
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.pdb
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\variablesEx.genruntimeconfig.cache
+C:\KODLARIM\C# practices\variablesEx\obj\Debug\net10.0\ref\variablesEx.dll
