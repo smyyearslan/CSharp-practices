@@ -1,0 +1,15 @@
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.AssemblyInfoInputs.cache
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.AssemblyInfo.cs
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.csproj.CoreCompileInputs.cache
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.sourcelink.json
+C:\KODLARIM\C# practices\If-else Statement 2\bin\Debug\net10.0\If-else Statement 2.exe
+C:\KODLARIM\C# practices\If-else Statement 2\bin\Debug\net10.0\If-else Statement 2.deps.json
+C:\KODLARIM\C# practices\If-else Statement 2\bin\Debug\net10.0\If-else Statement 2.runtimeconfig.json
+C:\KODLARIM\C# practices\If-else Statement 2\bin\Debug\net10.0\If-else Statement 2.dll
+C:\KODLARIM\C# practices\If-else Statement 2\bin\Debug\net10.0\If-else Statement 2.pdb
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.dll
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\refint\If-else Statement 2.dll
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.pdb
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\If-else Statement 2.genruntimeconfig.cache
+C:\KODLARIM\C# practices\If-else Statement 2\obj\Debug\net10.0\ref\If-else Statement 2.dll
