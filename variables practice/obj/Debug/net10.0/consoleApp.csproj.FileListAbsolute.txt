@@ -1,0 +1,28 @@
+C:\KODLARIM\C# çalışmalarım\consoleApp\bin\Debug\net10.0\consoleApp.exe
+C:\KODLARIM\C# çalışmalarım\consoleApp\bin\Debug\net10.0\consoleApp.deps.json
+C:\KODLARIM\C# çalışmalarım\consoleApp\bin\Debug\net10.0\consoleApp.runtimeconfig.json
+C:\KODLARIM\C# çalışmalarım\consoleApp\bin\Debug\net10.0\consoleApp.dll
+C:\KODLARIM\C# çalışmalarım\consoleApp\bin\Debug\net10.0\consoleApp.pdb
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.AssemblyInfoInputs.cache
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.AssemblyInfo.cs
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.dll
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\refint\consoleApp.dll
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.pdb
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\consoleApp.genruntimeconfig.cache
+C:\KODLARIM\C# çalışmalarım\consoleApp\obj\Debug\net10.0\ref\consoleApp.dll
+C:\KODLARIM\C# practices\variables practice\bin\Debug\net10.0\consoleApp.exe
+C:\KODLARIM\C# practices\variables practice\bin\Debug\net10.0\consoleApp.deps.json
+C:\KODLARIM\C# practices\variables practice\bin\Debug\net10.0\consoleApp.runtimeconfig.json
+C:\KODLARIM\C# practices\variables practice\bin\Debug\net10.0\consoleApp.dll
+C:\KODLARIM\C# practices\variables practice\bin\Debug\net10.0\consoleApp.pdb
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.AssemblyInfoInputs.cache
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.AssemblyInfo.cs
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.dll
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\refint\consoleApp.dll
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.pdb
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\consoleApp.genruntimeconfig.cache
+C:\KODLARIM\C# practices\variables practice\obj\Debug\net10.0\ref\consoleApp.dll
